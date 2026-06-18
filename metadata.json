@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Kupu ❤️",
+  "description": "An elegant, interactive birthday wish tribute to Kupu ❤️ with a personalized message board, polaroid photo gallery, memories timeline, and interactive surprise cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
