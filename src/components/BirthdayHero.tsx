@@ -490,7 +490,7 @@ export default function BirthdayHero() {
 
                   {/* The heartfelt scroll verse */}
                   <h3 className="font-sans text-2xl font-bold italic text-rose-900 mb-4 text-center">
-                    Happy Birthday kupu❤️✨
+                    Happy Birthday kupu❤️
                   </h3>
 
                   <div className="space-y-4 text-rose-950 font-sans leading-relaxed text-left text-sm md:text-base italic">
